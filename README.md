@@ -1,3 +1,2 @@
-# NAVIO
-## README
+# NAVIO (README)
 Install the .apk file
